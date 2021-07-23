@@ -1,0 +1,4 @@
+[submodule "test_sub_module"]
+	path = test_sub_module
+	url = git@github.com:rhycomma/test_sub_module.git
+	branch = rhy_dev
